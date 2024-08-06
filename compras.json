@@ -1,0 +1,15 @@
+{
+    "Historial de compras": [
+        {
+            "Proveedor": {
+                "Nombre": "pedro",
+                "Contacto": "3125456887"
+            },
+            "Producto comprado": {
+                "Nombre": "arina por bulto",
+                "Cantidad": "10",
+                "Precio": 120000
+            }
+        }
+    ]
+}
