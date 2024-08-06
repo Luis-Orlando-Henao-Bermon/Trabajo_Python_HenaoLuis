@@ -1,1 +1,28 @@
-{"Historial de ventas": [{"fecha": "2024-08-06", "nombre_cliente": "luis", "direccion_cliente": "union", "nombre_empleado": "jose", "cargo_empleado": "cajero", "producto": {"nombre": "Coca-Cola", "cantidad": 5, "precio": 3000}}]}
+{
+    "Historial de ventas": [
+        {
+            "fecha": "2024-08-06",
+            "nombre_cliente": "luis",
+            "direccion_cliente": "union",
+            "nombre_empleado": "jose",
+            "cargo_empleado": "cajero",
+            "producto": {
+                "nombre": "Coca-Cola",
+                "cantidad": 5,
+                "precio": 3000
+            }
+        },
+        {
+            "fecha": "2024-08-06",
+            "nombre_cliente": "zully",
+            "direccion_cliente": "perla",
+            "nombre_empleado": "maria",
+            "cargo_empleado": "cajera",
+            "producto": {
+                "nombre": "Pastel de bodas",
+                "cantidad": 4,
+                "precio": 10000
+            }
+        }
+    ]
+}

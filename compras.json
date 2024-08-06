@@ -1,15 +1,40 @@
 {
     "Historial de compras": [
         {
+            "fecha": "2024-08-06",
             "Proveedor": {
-                "Nombre": "pedro",
-                "Contacto": "3125456887"
+                "Nombre": "jose",
+                "Contacto": "3152456458"
             },
             "Producto comprado": {
-                "Nombre": "arina por bulto",
-                "Cantidad": "10",
-                "Precio": 120000
-            }
+                "Nombre": "Pastel de Chocolate",
+                "Cantidad": 10
+            },
+            "Precio": 10000
+        },
+        {
+            "fecha": "2024-08-06",
+            "Proveedor": {
+                "Nombre": "jose",
+                "Contacto": "3156458548"
+            },
+            "Producto comprado": {
+                "Nombre": "Pastel de Oreo",
+                "Cantidad": 10
+            },
+            "Precio": 8500
+        },
+        {
+            "fecha": "2024-08-06",
+            "Proveedor": {
+                "Nombre": "maria",
+                "Contacto": "3003588965"
+            },
+            "Producto comprado": {
+                "Nombre": "Monster",
+                "Cantidad": 30
+            },
+            "Precio": 7000
         }
     ]
 }
