@@ -1,5 +1,5 @@
 {
-    "Panaderia": [
+    "panaderia": [
         {
             "id": 1,
             "nombre": "Pan de bono",
@@ -51,39 +51,150 @@
             "precio": 1200
         }
     ],
-    "Pasteleria": {
-        "Pastel de Vainilla": 5000,
-        "Pastel de Chocolate": 5500,
-        "Pastel de bodas": 10000,
-        "Glaseado de Vainilla": 3000,
-        "Glaseado de Chocolate": 3500,
-        "Pastel de Arequipe": 5700,
-        "Pastel de Oreo": 7000,
-        "Postre de Limon": 4300,
-        "Postre de Vainilla": 4000,
-        "Postre de Tres Leches": 4500
-    },
-    "Bebidas": {
-        "Coca-Cola": 3000,
-        "Pepsi": 2900,
-        "Red-Bull": 4000,
-        "Gatorade": 3700,
-        "Budweiser": 3200,
-        "Hit": 2500,
-        "Pony-Malta": 2300,
-        "Sprite": 3200,
-        "Monster": 3000,
-        "Tropicana": 2400,
-        "-Promociones-": "Algunas promociones de la seccion de Bebidas",
-        "1 Pan con Salchicha y 1 Pony Malta": 3000,
-        "1 Postre de Oreo y 1 Budweiser": 9000
-    },
-    "Apartado de promociones": {
-        "6 Panes Integrales": 4000,
-        "5 Panes recubiertos de Chocolate": 5500,
-        "3 Pasteles de Vainilla": 13000,
-        "4 Postres de Oreo": 25000,
-        "1 Pan con Salchicha y 1 Pony Malta": 3000,
-        "1 Postre de Oreo y 1 Budweiser": 9000
-    }
+    "pasteleria": [
+        {
+            "id": 1,
+            "nombre": "Pastel de Vainilla",
+            "precio": 5000
+        },
+        {
+            "id": 2,
+            "nombre": "Pastel de Chocolate",
+            "precio": 5500
+        },
+        {
+            "id": 3,
+            "nombre": "Pastel de bodas",
+            "precio": 10000
+        },
+        {
+            "id": 4,
+            "nombre": "Glaseado de Vainilla",
+            "precio": 3000
+        },
+        {
+            "id": 5,
+            "nombre": "Glaseado de Chocolate",
+            "precio": 3500
+        },
+        {
+            "id": 6,
+            "nombre": "Pastel de Arequipe",
+            "precio": 5700
+        },
+        {
+            "id": 7,
+            "nombre": "Pastel de Oreo",
+            "precio": 7000
+        },
+        {
+            "id": 8,
+            "nombre": "Postre de Limon",
+            "precio": 4300
+        },
+        {
+            "id": 9,
+            "nombre": "Postre de Vainilla",
+            "precio": 4000
+        },
+        {
+            "id": 10,
+            "nombre": "Postre de Tres Leches",
+            "precio": 4500
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 1,
+            "nombre": "Coca-Cola",
+            "precio": 3000
+        },
+        {
+            "id": 2,
+            "nombre": "Pepsi",
+            "precio": 2900
+        },
+        {
+            "id": 3,
+            "nombre": "Red-Bull",
+            "precio": 4000
+        },
+        {
+            "id": 4,
+            "nombre": "Gatorade",
+            "precio": 3700
+        },
+        {
+            "id": 5,
+            "nombre": "Budweiser",
+            "precio": 3200
+        },
+        {
+            "id": 6,
+            "nombre": "Hit",
+            "precio": 2500
+        },
+        {
+            "id": 7,
+            "nombre": "Pony-Malta",
+            "precio": 2300
+        },
+        {
+            "id": 8,
+            "nombre": "Sprite",
+            "precio": 3200
+        },
+        {
+            "id": 9,
+            "nombre": "Monster",
+            "precio": 3000
+        },
+        {
+            "id": 10,
+            "nombre": "Tropicana",
+            "precio": 2400
+        },
+        {
+            "id": 11,
+            "nombre": "1 Pan con Salchicha y 1 Pony Malta",
+            "precio": 3000
+        },
+        {
+            "id": 12,
+            "nombre": "1 Postre de Oreo y 1 Budweiser",
+            "precio": 9000
+        }
+    ],
+    "apartado de promociones": [
+        {
+            "id": 1,
+            "nombre": "6 Panes Integrales",
+            "precio": 4000
+        },
+        {
+            "id": 2,
+            "nombre": "5 Panes recubiertos de Chocolate",
+            "precio": 5500
+        },
+        {
+            "id": 3,
+            "nombre": "3 Pasteles de Vainilla",
+            "precio": 13000
+        },
+        {
+            "id": 4,
+            "nombre": "4 Postres de Oreo",
+            "precio": 25000
+        },
+        {
+            "id": 5,
+            "nombre": "1 Pan con Salchicha y 1 Pony Malta",
+            "precio": 3000
+        },
+        {
+            "id": 6,
+            "nombre": "1 Postre de Oreo y 1 Budweiser",
+            "precio": 9000
+        }
+    ]
 }

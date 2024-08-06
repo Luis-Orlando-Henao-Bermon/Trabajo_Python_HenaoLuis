@@ -1,1 +1,26 @@
-{}
+{
+    "Historial de ventas": [
+        {
+            "fecha": "2024-08-06",
+            "nombre_cliente": "laura",
+            "direccion_cliente": "barrio camilo torres",
+            "nombre_empleado": "cajero",
+            "producto": {
+                "nombre": "Coca-Cola",
+                "cantidad": 2,
+                "precio": 3000
+            }
+        },
+        {
+            "fecha": "2024-08-06",
+            "nombre_cliente": "jose",
+            "direccion_cliente": "union",
+            "nombre_empleado": "cajera",
+            "producto": {
+                "nombre": "Gatorade",
+                "cantidad": 3,
+                "precio": 3700
+            }
+        }
+    ]
+}
