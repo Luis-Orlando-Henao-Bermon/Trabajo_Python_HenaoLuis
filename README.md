@@ -4,8 +4,7 @@ Este es un sistema de gestion una panaderia en la cual se usan archivos *.json* 
 En este programa podras acceder a un menu en el cual puedes realizar una venta, registrar una comprar a un proveedor y ver informes de ventas y compras realizadas
 ## Estructura
 
-
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/25e81df7-367e-4119-8be9-c0ff3520b674)
 
 
 ## Tecnologias usadas
